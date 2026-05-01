@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hulk-2019&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
   ![React](https://img.shields.io/badge/React.js-35495E?logo=react.js&logoColor=4FC08D)
@@ -52,11 +51,7 @@ Here are some ideas to get you started:
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
 
 
-<!--
-<div align="center" > <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hulk-2019&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
--->
-
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulk-2019&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hulk-2019&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
+<span><img src="https://github-readme-stats-gamma-nine-90.vercel.app/api/top-langs/?username=hulk-2019&layout=compact" height="137px" /></span><span><img height="137px" src="https://github-readme-stats-gamma-nine-90.vercel.app/api?username=hulk-2019&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </span>
 
 
 🔥 My projects:
