@@ -59,6 +59,7 @@
 - **AI壁纸**：https://www.ai520.wiki
 - **鲜管家APP**：https://github.com/hulk-2019/fresh-keeper
 - **Cookie管理插件**：https://github.com/hulk-2019/cookie-manager-extension
+- **FujiSim照片加滤镜**：https://github.com/hulk-2019/FujiSim
 
 ## 🛠️ My Skill Set:
 
