@@ -48,7 +48,7 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <span><img src="https://github-readme-stats-gamma-nine-90.vercel.app/api/top-langs/?username=hulk-2019&layout=compact" height="137px" /></span>
+  <span><img src="https://github-readme-stats-gamma-nine-90.vercel.app/api/top-langs/?username=hulk-2019&layout=compact&cache_seconds=1800" height="137px" /></span>
   <span><img src="https://github-readme-stats-gamma-nine-90.vercel.app/api?username=hulk-2019&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" height="137px" /></span>
 </div>
 
